@@ -1,2 +1,2 @@
 # 18_WCS_POO_2
-Les classes sont de base deplacées dans le repertoire classe et chemin en fontion dans les require . :-)
+Les classes sont de base definie dans le "Class" , chemin en rapport dans les require . :-)
